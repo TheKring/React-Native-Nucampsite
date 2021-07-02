@@ -92,7 +92,7 @@ class Reservation extends Component {
                     />
                 )}
                 <View style={styles.formRow}>
-                    <Button style={{fontWeight: 'bold'}}
+                    <Button 
                         onPress={() => this.handleReservation()}
                         title='Search'
                         color='#5637DD'
