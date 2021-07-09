@@ -267,6 +267,7 @@ class CampsiteInfo extends Component {
 									onPress={() => {
 										this.toggleModal();
 										this.resetForm();
+										console.log('Cancel Pressed');
 									}}
 									color="#808080"
 									title="Cancel"
