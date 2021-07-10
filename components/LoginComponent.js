@@ -285,7 +285,7 @@ const styles = StyleSheet.create({
         marginRight: 10
     },
     formInput: {
-        padding: 8
+        padding: 0
     },
     formCheckbox: {
         margin: 8,
